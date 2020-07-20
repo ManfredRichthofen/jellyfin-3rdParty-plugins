@@ -1,0 +1,56 @@
+[
+    {
+        "guid": "b9abc838-fa2b-4e8d-81e8-f0cf7c407ea3",
+        "name": "MyShows",
+        "description": "Connect your myshows account\n",
+        "overview": "Connect your myshows account",
+        "owner": "shemanaev",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "3.0.0.1",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com.cnpmjs.org/shemanaev/jellyfin-plugin-myshows/releases/download/v3.0.0.1/myshows_3.0.0.1.zip",
+                "checksum": "9b1cebff835813e15f414f44b40c41c8",
+                "timestamp": "2020-07-20T01:30:16Z"
+            }
+        ]
+    },
+    {
+        "guid": "b19bac60-1f82-40b0-a9bf-237f5651b98b",
+        "name": "Webhook Plugin",
+        "description": "Manage and create webhooks\n",
+        "overview": "Manage and create webhooks",
+        "owner": "shemanaev",
+        "category": "Notifications",
+        "versions": [
+            {
+                "version": "1.0.0.1",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/shemanaev/jellyfin-plugin-webhooks/releases/download/v1.0.0.1/webhooks_1.0.0.1.zip",
+                "checksum": "ab67e6b59ea2e7860a6a3ff7b8452759",
+                "timestamp": "2020-07-20T01:33:06Z"
+            }
+        ]
+    },
+    {
+        "guid": "3fd018e5-5e78-4e58-b280-a0c068febee0",
+        "name": "TVHeadend",
+        "description": "Manage TVHeadend from Jellyfin",
+        "overview": "Manage TVHeadend from Jellyfin",
+        "owner": "jellyfin",
+        "category": "LiveTV",
+        "versions": [
+            {
+                "version": "6.0.0.0",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/tvheadend/tvheadend_6.0.0.0.zip",
+                "checksum": "143c34fd70d7173b8912cc03ce4b517d",
+                "timestamp": "2020-07-20T01:33:15Z"
+            }
+        ]
+    }
+]
